@@ -43,4 +43,4 @@ Project Link: https://github.com/Slimake/modal
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: image/modal.png
+[product-screenshot]: img/modal.png
