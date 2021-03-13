@@ -234,6 +234,7 @@ body {
   font-size: 3rem;
   color: var(--mainPink);
   cursor: pointer;
+  transition: color 1s linear;
 }
 
 .control {
@@ -242,11 +243,11 @@ body {
   font-size: 4rem;
   color: var(--mainPink);
   cursor: pointer;
+  transition: color 1s linear;
 }
 
 .control:hover, .hide-overlay:hover {
   color: var(--mainYellow);
-  transition: all 1s linear;
 }
 
 .prev-btn {
